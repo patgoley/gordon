@@ -632,6 +632,7 @@ class NodeLambda(Lambda):
         'node': 'nodejs',
         'nodejs': 'nodejs',
         'nodejs4.3': 'nodejs4.3',
+        'nodejs8.10': 'nodejs8.10',
         'nodejs6.10': 'nodejs6.10',
         'nodejs0.10': 'nodejs',
         'node0.10': 'nodejs'
